@@ -1,0 +1,30 @@
+Dataset tank/deluge [ZPL], ID 63, cr_txg 53, 18.2T, 38931 objects, rootbp DVA[0]=<0:1d0fb47dc000:2000> DVA[1]=<1:1c05d692c000:2000> [L0 DMU objset] fletcher4 uncompressed unencrypted LE contiguous unique double size=800L/800P birth=49433898L/49433898P fill=38931 cksum=d2e8f15c4:1001203ef33a:bb09c8eabda87:638a05e5fa98223
+
+    Object  lvl   iblk   dblk  dsize  dnsize  lsize   %full  type
+        64    3   128K   128K  5.46G     512  5.47G  100.00  ZFS plain file
+                                               168   bonus  System attributes
+	dnode flags: USED_BYTES USERUSED_ACCOUNTED USEROBJUSED_ACCOUNTED 
+	dnode maxblkid: 44770
+	path	/downloads/Krull.1983.720p.BluRay.X264-AMIABLE/Krull.1983.720p.BluRay.X264-AMIABLE.mkv
+	uid     956
+	gid     956
+	atime	Sat Sep  9 23:30:27 2017
+	mtime	Fri Mar  6 03:34:19 2015
+	ctime	Fri Mar  6 03:34:19 2015
+	crtime	Thu Mar  5 15:21:55 2015
+	gen	4120345
+	mode	100644
+	size	5868161379
+	parent	63
+	links	1
+	pflags	40800000004
+Indirect blocks:
+               0 L2   1:167eb4000:2000 20000L/c00P F=44771 B=78/78 cksum=14a59e34a60:1ad4d903aff01:191e38ff2cb6471:28b1e6c089abd03d
+               0  L1  0:357fac000:12000 20000L/aa00P F=1024 B=71/71 cksum=133e367ff83e:19c923867366687:e25036f3f7914c7f:ae81ffdbab920a28
+               0   L0 0:317e3c000:30000 20000L/20000P F=1 B=71/71 cksum=198842a71bc3c92b:3eaa64452fe5fe79:b75babca1a07e1ab:9fec73a047034e85
+           20000   L0 0:317e6c000:30000 20000L/20000P F=1 B=71/71 cksum=44891105186dd77e:6ea3d8a5abe7518b:6662bbf8314d4f45:5c67c1c874009152
+           40000   L0 0:317e9c000:30000 20000L/20000P F=1 B=71/71 cksum=7e9ca693d02b7f5b:43a8d860d8ee63b:6cde6ec02cc64169:b8410ebd7e6dfc95
+           60000   L0 0:317ecc000:30000 20000L/20000P F=1 B=71/71 cksum=9bb280680a96da22:5faf3c6bd03d54d2:f649275a8fb831a6:7e2391ad7ba5279c
+           80000   L0 0:317efc000:30000 20000L/20000P F=1 B=71/71 cksum=61e1ab4480f0dddb:8c2ca685636a7956:15a1df98ae25c056:35c5b0a719c4fa92
+           a0000   L0 0:317f2c000:30000 20000L/20000P F=1 B=71/71 cksum=32936b53bedc778b:de2b3e7c2ec2c047:6b325f55a5950514:15bbcd06a5127973
+           c0000   L0 0:317f5c000:30000 20000L/20000P F=1 B=71/71 cksum=dd35329ef0a79b40:74021ac0e9bc6e69:3e7c6c4b7b444d48:d713cc7d2a02936f
